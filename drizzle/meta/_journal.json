@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1772723355817,
+      "tag": "0000_motionless_wilson_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1772765058356,
+      "tag": "0001_young_arclight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772827913047,
+      "tag": "0002_illegal_marvel_boy",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1772888798155,
+      "tag": "0003_free_queen_noir",
+      "breakpoints": true
+    }
+  ]
+}
